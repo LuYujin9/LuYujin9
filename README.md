@@ -6,6 +6,7 @@ Ich bin Yujin Lu und komme aus China. 2019 bin ich nach Deutchland gezogen. Hier
 
 Ich bin der neue Fisch.Eines Tags kann ich auch groß.
 
+<img scr="https://cdn.sci.news/images/enlarge8/image_9358e-Coralliozetus-clausus.jpg" width="50%" height="50%"/>
 
 ![test image size](https://cdn.sci.news/images/enlarge8/image_9358e-Coralliozetus-clausus.jpg)
 ***
