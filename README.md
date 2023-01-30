@@ -1,8 +1,13 @@
-#  👋 🌱 I’m currently learning web development.
+#  👋 I’m currently learning web development.🌱 
 
-Ich bin ** Yujin Lu ** und komme aus China. 2019 bin ich nach Deutchland gezogen. Hier lerne ich Deutsch und versuche ein neues Leben zu haben. Momentan lerne Ich Web Dvelopment und möchte in den Breich ein Job finden. Ich interesiere für viele Sache und lerne euch gern kennen.
+![hallo](https://media0.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif?cid=ecf05e47tnb3asj9dek6v7ujqntzkoc6dx5astf4uhpuk0dr&rid=giphy.gif&ct=g)
 
-[Mail me](wuwujane@hotmail.com)   [FACEBOOK](https://de-de.facebook.com)
+
+
+Ich bin **Yujin Lu** und komme aus China. 2019 bin ich nach Deutchland gezogen. Hier lerne ich Deutsch und versuche ein neues Leben zu haben. Momentan lerne Ich Web Dvelopment und möchte in den Breich ein Job finden. Ich interesiere für viele Sache und lerne euch gern kennen. Bitte klick, um mich mehr kennenzulernen:
+
+[MAIL](wuwujane@hotmail.com) &nbsp;&nbsp;&nbsp; [FACEBOOK](https://de-de.facebook.com) &nbsp;&nbsp;&nbsp; [TWITTER](https://de-de.facebook.com)
+
 ---
 
 > Ich bin jetzt noch ein kleiner neuer Fisch 🐟
