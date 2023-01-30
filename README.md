@@ -7,7 +7,7 @@ Ich bin Yujin Lu und komme aus China. 2019 bin ich nach Deutchland gezogen. Hier
 Ich bin der neue Fisch.Eines Tags kann ich auch groß.
 
 
-![test image size](https://cdn.sci.news/images/enlarge8/image_9358e-Coralliozetus-clausus.jpg){:height="50%" width="50%"}
+![test image size](https://cdn.sci.news/images/enlarge8/image_9358e-Coralliozetus-clausus.jpg)
 ***
 Mein Plan von Lernen:
 1. ReadMe schreiben
