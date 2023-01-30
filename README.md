@@ -1,5 +1,8 @@
 ###  👋 🌱 I’m currently learning web development.
 
+Ich bin Yujin Lu und komme aus China. 2019 bin ich nach Deutchland gezogen. Hier lerne ich Deutsch und versuche ein neues Leben zu haben. Momentan lerne ich Web Dvelopment und möchte in den Breich ein Job finden. Ich interesiere für viele Sache und lerne euch gern kennen.
+
+
 
 
 <!--
