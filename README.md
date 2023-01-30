@@ -2,9 +2,8 @@
 
 Ich bin Yujin Lu und komme aus China. 2019 bin ich nach Deutchland gezogen. Hier lerne ich Deutsch und versuche ein neues Leben zu haben. Momentan lerne Ich Web Dvelopment und möchte in den Breich ein Job finden. Ich interesiere für viele Sache und lerne euch gern kennen.
 
-Ich bin der neue Fisch.Eines Tags kann ich auch 
-https://cdn.sci.news/images/enlarge8/image_9358e-Coralliozetus-clausus.jpg
-
+Ich bin der neue Fisch.Eines Tags kann ich auch groß.
+![image](https://cdn.sci.news/images/enlarge8/image_9358e-Coralliozetus-clausus.jpg)
 <!--
 **LuYujin9/LuYujin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
