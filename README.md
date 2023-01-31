@@ -23,10 +23,10 @@ Eines Tags kann ich auch groß werden 🐳
 ---
 
 ## Meine Ziele 
-- [html](#html)
-- [css](#css)
-- [javascript](#javascript)
-- [react](#react)
+1. [html](#html)
+1. [css](#css)
+1. [javascript](#javascript)
+1. [react](#react)
 
 -----
 
@@ -34,29 +34,29 @@ Eines Tags kann ich auch groß werden 🐳
 
 ### html
 
-1. vorbreiten
+- vorbreiten
    - [x] GitHub und Markdown
    - [ ] ...
-1. Teamwork gut machen
-1. ....
+- Teamwork gut machen
+- ....
 
 ### css
 
-1.
-1.
-1.
+-
+-
+-
 
 
 ### javascript
 
-1.
-1.
-1.
+-
+-
+-
 
 ### react
 
-1.
-1.
-1.
+-
+-
+-
 
 
