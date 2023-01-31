@@ -25,8 +25,8 @@ Eines Tags kann ich auch groß werden 🐳
 ## Meine Ziele 
 - [html](#html)
 - [css](#css)
-- JavaScript
-- React
+- [javascript](#javascript)
+- [react](#react)
 
 -----
 
@@ -45,17 +45,18 @@ Eines Tags kann ich auch groß werden 🐳
 1.
 1.
 1.
-<!--
-**LuYujin9/LuYujin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### javascript
+
+1.
+1.
+1.
+
+### react
+
+1.
+1.
+1.
+
+
