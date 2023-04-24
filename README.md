@@ -19,8 +19,8 @@ Have a look at my [capstone project](https://github.com/LuYujin9/capstone-projec
 [LINKEDIN](https://www.linkedin.com/in/yujin-lu-119556267/)
 
 ## My Web Developement Bootcamp 
-[NEUEFISCHE](https://www.neuefische.de/en/bootcamp/web-development)
-the tech stack includes:
+My bootcamp is from [NEUEFISCHE](https://www.neuefische.de/en/bootcamp/web-development).
+The tech stack includes:
 - Git
 - GitHub
 - React
