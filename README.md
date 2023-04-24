@@ -2,7 +2,8 @@
 <img src="https://media0.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif?cid=ecf05e47tnb3asj9dek6v7ujqntzkoc6dx5astf4uhpuk0dr&rid=giphy.gif&ct=g" border-radius:20px width="100"/> 
 <img>
 
-<b> I am searching a full time job as junior web developer. </b>
+<b> I just finished a coding boot camp and searching a full time job as junior web developer. </b>
+Here is my [capstone project](https://github.com/LuYujin9/capstone-project)
 
 ## What I can
 
