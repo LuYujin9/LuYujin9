@@ -2,18 +2,24 @@
 <img src="https://media0.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif?cid=ecf05e47tnb3asj9dek6v7ujqntzkoc6dx5astf4uhpuk0dr&rid=giphy.gif&ct=g" border-radius:20px width="100"/> 
 <img>
 
-I am searching a full time job as junior web developer.
+<b> I am searching a full time job as junior web developer. </b>
 
-### What I can
+## What I can
 
-### What I am current lerning
+[![My Skills](https://skillicons.dev/icons?i=git,github,react,nextjs,js,html,css,nodejs,jest,styledcomponents,mongodb)](https://skillicons.dev)
 
-> [MAIL](wuwujane@hotmail.com) &nbsp;&nbsp;&nbsp; [FACEBOOK](https://de-de.facebook.com) &nbsp;&nbsp;&nbsp; [Linkedin]([https://de-de.facebook.com](https://www.linkedin.com/in/yujin-lu-119556267/))
+## What I am current lerning
 
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
-### I just finished the neue fische Coding Boot Camp Web Developement.
+## How to contact me
+> [MAIL](wuwujane@hotmail.com) &nbsp;&nbsp;&nbsp;
+[FACEBOOK](https://de-de.facebook.com) &nbsp;&nbsp;&nbsp; 
+[LINKEDIN](https://www.linkedin.com/in/yujin-lu-119556267/)
 
-their tech stack includes:
+## My Coding Boot Camp Web Developement.
+[NEUEFISCHE](https://www.neuefische.de/en/bootcamp/web-development)
+the tech stack includes:
 - Git
 - GitHub
 - React
