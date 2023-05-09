@@ -3,8 +3,7 @@
 <img>
 
 <b> I just finished a Web Developement bootcamp and searching a full time job as junior web developer. </b>
-Have a look at my 
-## [capstone project](https://github.com/LuYujin9/capstone-project)?
+### Have a look at my [capstone project](https://github.com/LuYujin9/capstone-project)?
 
 ## What I can
 
