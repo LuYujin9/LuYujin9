@@ -9,9 +9,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,react,nextjs,js,html,css,nodejs,jest,styledcomponents,mongodb)](https://skillicons.dev)
 
-## What I am current lerning
-
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ## How to contact me
 > [MAIL](wuwujane@hotmail.com) &nbsp;&nbsp;&nbsp;
